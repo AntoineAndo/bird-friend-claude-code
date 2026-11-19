@@ -18,7 +18,7 @@ A pixel-art blue tit that lives above the Claude Code prompt, built as a Claude 
 | Optional blue Clawd theme | `~/.claude/themes/blue-tit.json` (pick "Blue tit" in `/theme`) |
 | First session's copy (no longer needed) | `~/.claude/dev-mods/a1892b3d-7474-4a68-bf77-afb05a042355/blue-tit/` |
 | Scratch work (drafts, previews, scripts) | `/tmp/bluetit-scratch/` |
-| Git repository | `~/.claude/mods/blue-tit/` (branch `main`, `.claude-plugin/types/` ignored), to be pushed to `https://github.com/AntoineAndo/bird-friend-claude-code.git` |
+| Git repository | `~/.claude/mods/blue-tit/` (branch `main`, `.claude-plugin/types/` and `welcome-patch.js` ignored), pushed to `https://github.com/AntoineAndo/bird-friend-claude-code`. After a change, copy `SUMMARY.md` and `preview.html` in from `~/Documents/dev/blue-tit/`, then commit and push. |
 
 ## What it does now
 
