@@ -1,0 +1,6 @@
+{
+  "name": "blue-tit",
+  "version": "0.1.0",
+  "description": "A pixel-art blue tit greets you above the prompt at the start of each session",
+  "types": "./types/index.d.ts"
+}
